@@ -1,1 +1,1 @@
-"# Tugas GitHub Berpasangan" 
+# Tugas Kolaborasi Git dan GitHub
